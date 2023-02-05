@@ -1,0 +1,1 @@
+CLASSES_LIST = ["Clapping","Walking", "Sitting", "Meet & Split", "Standing Still","Walking While Reading Book","Walking While Using Phone"]
